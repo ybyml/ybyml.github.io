@@ -90,20 +90,17 @@ content:
         - name: Google
           description: 全球最大的UI学习分享平台
           url: https://www.google.com/
-    - name: 界面灵感
+    - name: VPS&SSR
       sites:
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
-        - name: 设计周刊
-          description: 最新设计资讯（每天更新）
-          url: https://www.shejizhoukan.com/
+        - name: 甲骨文
+          description: 免费中的强大vps（推荐）
+          url: https://www.oracle.com/cn/cloud/
+        - name: getafreenode
+          description: Get A Free Node
+          url: https://getafreenode.com/
         - name: 字体仓库
           description: 最全的免费商用字体库
           url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
     - name: 社区资讯
       sites:
         - name: 雷锋网
