@@ -73,6 +73,23 @@ content:
         - name: Medium
           description: Read, write and share stories that matter
           url: https://medium.com/
+    - name: Google产品
+      sites:
+        - name: Google相册
+          description: 长期备份手机照片的地方
+          url: https://photos.google.com/
+        - name: Gmail
+          description: 国外邮箱（缺少不了的）
+          url: https://mail.google.com/
+        - name: Google keep
+          description: Google方便记事本
+          url: https://keep.google.com/u/0/
+        - name: Google voice
+          description: GV电话信息
+          url: https://voice.google.com/
+        - name: Google 日历
+          description: Google记事提醒
+          url: https://calendar.google.com/
     - name: 界面灵感
       sites:
         - name: 咕噜素材
