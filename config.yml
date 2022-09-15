@@ -109,6 +109,17 @@ content:
         - name: eu.org
           description: 永久免费域名
           url: https://nic.eu.org/arf/en/
+    - name: 扬州大学
+      sites:
+        - name: 扬大主页
+          description: yangzhou University
+          url: https://www.yzu.edu.cn/index.htm
+        - name: 扬大融合门户
+          description: 个人门户入口
+          url: https://i.yzu.edu.cn
+        - name: Eol平台
+          description: 在线教学平台
+          url: http://eol.yzu.edu.cn/meol/index.do
     - name: Google产品
       sites:
         - name: Google相册
