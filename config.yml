@@ -82,11 +82,14 @@ content:
           description: Google记事提醒
           url: https://calendar.google.com/
         - name: Youtube
-          description: 全球最大的学习分享平台
+          description: Google视频平台
           url: https://www.youtube.com/
         - name: Google
-          description: 全球最大的UI学习分享平台
+          description: 全球最大的搜索引擎
           url: https://www.google.com/
+        - name: twitter
+          description: 推特
+          url: https://twitter.com/home
     - name: VPS&SSR
       sites:
         - name: 甲骨文
