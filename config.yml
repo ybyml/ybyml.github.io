@@ -61,9 +61,9 @@ content:
         - name: 淘宝
           description: 淘东西的地方
           url: https://www.taobao.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
+        - name: CCF
+          description: CCF二手区
+          url: https://bbs.et8.net/bbs/forumdisplay.php?f=174&pp=35&sort=dateline&order=desc&daysprune=45
         - name: Medium
           description: Read, write and share stories that matter
           url: https://medium.com/
