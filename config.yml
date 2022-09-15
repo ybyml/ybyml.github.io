@@ -64,6 +64,29 @@ content:
         - name: CCF
           description: CCF二手区
           url: https://bbs.et8.net/bbs/forumdisplay.php?f=174&pp=35&sort=dateline&order=desc&daysprune=45
+    - name: 软件相关
+      sites:
+        - name: 果核剥壳
+          description: 互联网的净土
+          url: https://www.ghxi.com/
+        - name: 卡饭论坛
+          description: 浏览器%杀毒等
+          url: https://bbs.kafan.cn/forum.php
+        - name: 未来软件园
+          description: 常用的软件站
+          url: http://www.orsoon.com/
+        - name: 大眼仔旭
+          description: 图像影视处理软件
+          url: http://www.dayanzai.me/
+        - name: zd423
+          description: 软件分享平台领跑
+          url: https://www.zdfans.com/
+        - name: 小众软件
+          description: 分享免费、小巧、实用等
+          url: https://www.appinn.com/
+        - name: dailydownloaded
+          description: 好像是一个国外的软件站
+          url: http://windows.dailydownloaded.com/zh/
     - name: Google产品
       sites:
         - name: Google相册
@@ -112,44 +135,6 @@ content:
         - name: eu.org
           description: 永久免费域名
           url: https://nic.eu.org/arf/en/
-    - name: 社区资讯
-      sites:
-        - name: 雷锋网
-          description: 人工智能和智能硬件领域的互联网科技媒体
-          url: https://www.leiphone.com/
-        - name: 36kr
-          description: 创业资讯、科技新闻
-          url: http://36kr.com/
-        - name: 数英网
-          description: 数字媒体及职业招聘网站
-          url: https://www.digitaling.com/
-        - name: 猎云网
-          description: 互联网创业项目推荐和创业创新资讯
-          url: http://www.lieyunwang.com/
-        - name: 人人都是产品经理
-          description: 产品经理、产品爱好者学习交流平台
-          url: http://www.woshipm.com/
-        - name: 互联网早读课
-          description: 互联网行业深度阅读与学习平台
-          url: https://www.zaodula.com/
-        - name: 产品壹佰
-          description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-          url: http://www.chanpin100.com/
-        - name: PMCAFF
-          description: 中国第一产品经理人气组织，专注于研究互联网产品
-          url: http://www.pmcaff.com/
-        - name: 爱运营
-          description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-          url: http://www.iyunying.org/
-        - name: 鸟哥笔记
-          description: 移动互联网第一干货平台
-          url: http://www.niaogebiji.com/
-        - name: 古田路9号
-          description: 国内专业品牌创意平台
-          url: http://www.gtn9.com/
-        - name: 优阁网
-          description: UI设计师学习交流社区
-          url: http://www.uigreat.com/
     - name: 发现产品
       sites:
         - name: NEXT
