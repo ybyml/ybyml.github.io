@@ -101,6 +101,17 @@ content:
         - name: 字体仓库
           description: 最全的免费商用字体库
           url: https://www.ziticangku.com/
+     - name: 网站工具
+      sites:
+        - name: Cloudflare
+          description: 全球最大网络服务商
+          url: https://dash.cloudflare.com/login/
+        - name: freenom
+          description: 免费域名服务商
+          url: https://www.freenom.com/zh/index.html?lang=zh
+        - name: eu.org
+          description: 永久免费域名
+          url: https://nic.eu.org/arf/en/
     - name: 社区资讯
       sites:
         - name: 雷锋网
