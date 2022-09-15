@@ -87,6 +87,28 @@ content:
         - name: dailydownloaded
           description: 好像是一个国外的软件站
           url: http://windows.dailydownloaded.com/zh/
+    - name: VPS&SSR
+      sites:
+        - name: 甲骨文
+          description: 免费中的强大vps（推荐）
+          url: https://www.oracle.com/cn/cloud/
+        - name: getafreenode
+          description: Get A Free Node
+          url: https://getafreenode.com/
+        - name: 字体仓库
+          description: 最全的免费商用字体库
+          url: https://www.ziticangku.com/
+    - name: 网站工具
+      sites:
+        - name: Cloudflare
+          description: 全球最大网络服务商
+          url: https://dash.cloudflare.com/login/
+        - name: freenom
+          description: 免费域名服务商
+          url: https://www.freenom.com/zh/index.html?lang=zh
+        - name: eu.org
+          description: 永久免费域名
+          url: https://nic.eu.org/arf/en/
     - name: Google产品
       sites:
         - name: Google相册
@@ -113,28 +135,6 @@ content:
         - name: twitter
           description: 推特
           url: https://twitter.com/home
-    - name: VPS&SSR
-      sites:
-        - name: 甲骨文
-          description: 免费中的强大vps（推荐）
-          url: https://www.oracle.com/cn/cloud/
-        - name: getafreenode
-          description: Get A Free Node
-          url: https://getafreenode.com/
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-    - name: 网站工具
-      sites:
-        - name: Cloudflare
-          description: 全球最大网络服务商
-          url: https://dash.cloudflare.com/login/
-        - name: freenom
-          description: 免费域名服务商
-          url: https://www.freenom.com/zh/index.html?lang=zh
-        - name: eu.org
-          description: 永久免费域名
-          url: https://nic.eu.org/arf/en/
     - name: 发现产品
       sites:
         - name: NEXT
