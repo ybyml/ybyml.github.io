@@ -424,18 +424,4 @@ content:
         - name: OfficePLUS
           description: OfficePLUS，微软Office官方在线模板网站！
           url: http://www.officeplus.cn/Template/Home.shtml
-        - name: 优品PPT
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
-          url: http://www.ypppt.com/
-        - name: PPT+
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台
-          url: http://www.pptplus.cn/
-        - name: PPTMind
-          description: 分享高端ppt模板与keynote模板的数字作品交易平台
-          url: http://www.pptmind.com/
-        - name: tretars
-          description: The best free Mockups from the Web
-          url: http://www.tretars.com/ppt-templates
-        - name: 5百丁
-          description: 中国领先的PPT模板共享平台
-          url: http://ppt.500d.me/
+
