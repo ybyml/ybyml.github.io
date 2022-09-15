@@ -46,12 +46,12 @@ content:
         - name: v2ex
           description: v2ex技术社区。
           url: https://www.v2ex.com/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
+        - name: 发现什么值得买
+          description: 分享购物平台。
+          url: https://faxian.smzdm.com/
+        - name: 西瓜视频
+          description: 西瓜视频关注最新
+          url: https://www.ixigua.com/my/attention/new
         - name: Pinterest
           description: 全球美图收藏采集站
           url: https://www.pinterest.com/
