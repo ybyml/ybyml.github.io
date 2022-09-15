@@ -64,9 +64,6 @@ content:
         - name: CCF
           description: CCF二手区
           url: https://bbs.et8.net/bbs/forumdisplay.php?f=174&pp=35&sort=dateline&order=desc&daysprune=45
-        - name: Medium
-          description: Read, write and share stories that matter
-          url: https://medium.com/
     - name: Google产品
       sites:
         - name: Google相册
