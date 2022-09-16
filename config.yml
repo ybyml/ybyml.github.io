@@ -67,6 +67,23 @@ content:
         - name: CCF
           description: CCF二手区
           url: https://bbs.et8.net/bbs/forumdisplay.php?f=174&pp=35&sort=dateline&order=desc&daysprune=45
+    - name: 电影视频
+      sites:
+        - name: 6v电影网
+          description: 6v电影网，最新电影，最新电视剧
+          url: https://www.6vhao.net/
+        - name: 6v电影-新版
+          description: 6v电影-新版
+          url: https://www.ai66.cc/
+        - name: SSD论坛
+          description: CMCT新网址
+          url: https://springsunday.net/
+        - name: 哔嘀影视（简称BDYS）
+          description: 哔嘀影视（简称BDYS），热门电影，最新电影
+          url: https://www.bdys01.com/
+        - name: 555电影
+          description: 555电影-韩国电影免费在线看
+          url: https://o8tv.com/
     - name: 软件相关
       sites:
         - name: 果核剥壳
