@@ -172,6 +172,9 @@ content:
         - name: 小众软件
           description: 在这里发现更多有趣的应用
           url: https://faxian.appinn.com/
+        - name: OfficePLUS
+          description: OfficePLUS，微软Office官方在线模板网站！
+          url: http://www.officeplus.cn/Template/Home.shtml
     - name: 图标素材
       sites:
         - name: Iconfinder
@@ -206,9 +209,4 @@ content:
         - name: freenaturestock
           description: Exclusive mindblowing freebies for designers and developers
           url: http://freenaturestock.com/
-    - name: PPT资源
-      sites:
-        - name: OfficePLUS
-          description: OfficePLUS，微软Office官方在线模板网站！
-          url: http://www.officeplus.cn/Template/Home.shtml
 
