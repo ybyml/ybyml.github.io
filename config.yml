@@ -120,6 +120,15 @@ content:
         - name: Eol平台
           description: 在线教学平台
           url: http://eol.yzu.edu.cn/meol/index.do
+        - name: 建工
+          description: 学院
+          url: http://jgxy.yzu.edu.cn/index.htm
+        - name: 学校VPN平台
+          description: 在线学校VPN平台
+          url: https://webvpn.yzu.edu.cn/login
+        - name: 图书馆检索
+          description: 图书馆检索平台系统
+          url: http://opac.yzu.edu.cn:8080/reader/login.php
     - name: Google产品
       sites:
         - name: Google相册
