@@ -132,6 +132,9 @@ content:
         - name: 在线教学登记
           description: 在线教学登记平台
           url: http://melab.yzu.edu.cn/jwc/online_edu_pause.asp
+        - name: 信息中心
+          description: 信息中心软件平台
+          url: https://xxhc.yzu.edu.cn/zbrj/
     - name: Google产品
       sites:
         - name: Google相册
