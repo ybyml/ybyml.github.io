@@ -46,6 +46,9 @@ content:
         - name: v2ex
           description: v2ex技术社区。
           url: https://www.v2ex.com/
+        - name: sov2ex
+          description: 一个便捷的 v2ex 站内搜索引擎
+          url: https://www.sov2ex.com/     
         - name: 发现什么值得买
           description: 分享购物平台。
           url: https://faxian.smzdm.com/
