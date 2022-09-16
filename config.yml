@@ -195,15 +195,9 @@ content:
         - name: flaticon
           description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
           url: https://www.flaticon.com/
-        - name: UICloud
-          description: The largest user interface design database in the world.
-          url: http://ui-cloud.com/
         - name: Material icons
           description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
           url: https://material.io/icons/
-        - name: Font Awesome Icon
-          description: The complete set of 675 icons in Font Awesome
-          url: fontawesomeicon
         - name: ion icons
           description: The premium icon font for Ionic Framework.
           url: http://ionicons.com/
