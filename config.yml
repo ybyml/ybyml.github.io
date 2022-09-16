@@ -67,6 +67,9 @@ content:
         - name: CCF
           description: CCF二手区
           url: https://bbs.et8.net/bbs/forumdisplay.php?f=174&pp=35&sort=dateline&order=desc&daysprune=45
+        - name: LION导航
+          description: 个人的云服务导航网站
+          url: https://dh.kejilion.tk/
     - name: 电影视频
       sites:
         - name: 6v电影网
