@@ -119,19 +119,19 @@ content:
           url: https://i.yzu.edu.cn
         - name: Eol平台
           description: 在线教学平台
-          url: http://eol.yzu.edu.cn/meol/index.do
+          url: https://eol.yzu.edu.cn/meol/index.do
         - name: 建工
           description: 学院
-          url: http://jgxy.yzu.edu.cn/index.htm
+          url: https://jgxy.yzu.edu.cn/index.htm
         - name: 学校VPN平台
           description: 在线学校VPN平台
           url: https://webvpn.yzu.edu.cn/login
         - name: 图书馆检索
           description: 图书馆检索平台系统
-          url: http://opac.yzu.edu.cn:8080/reader/login.php
+          url: https://opac.yzu.edu.cn:8080/reader/login.php
         - name: 在线教学登记
           description: 在线教学登记平台
-          url: http://melab.yzu.edu.cn/jwc/online_edu_pause.asp
+          url: https://melab.yzu.edu.cn/jwc/online_edu_pause.asp
     - name: Google产品
       sites:
         - name: Google相册
