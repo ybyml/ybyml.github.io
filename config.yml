@@ -163,33 +163,12 @@ content:
           url: https://twitter.com/home
     - name: 发现产品
       sites:
-        - name: NEXT
-          description: 不错过任何一个新产品
-          url: http://next.36kr.com/posts
         - name: 少数派
           description: 高品质数字消费指南
           url: https://sspai.com/
-        - name: 利器
-          description: 创造者和他们的工具
-          url: http://liqi.io/
-        - name: Today
-          description: 为身边的新产品喝彩
-          url: http://today.itjuzi.com/
         - name: 小众软件
           description: 在这里发现更多有趣的应用
           url: https://faxian.appinn.com/
-        - name: Pttrns
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-          url: https://www.pttrns.com/
-        - name: Collect UI
-          description: Daily inspiration collected from daily ui archive and beyond.
-          url: http://collectui.com/
-        - name: UI uigreat
-          description: APP界面截图参考
-          url: http://ui.uigreat.com/
-        - name: Android Niceties
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-          url: http://androidniceties.tumblr.com/
     - name: 图标素材
       sites:
         - name: Iconfinder
