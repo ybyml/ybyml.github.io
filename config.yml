@@ -129,6 +129,9 @@ content:
         - name: 图书馆检索
           description: 图书馆检索平台系统
           url: http://opac.yzu.edu.cn:8080/reader/login.php
+        - name: 在线教学登记
+          description: 在线教学登记平台
+          url: http://melab.yzu.edu.cn/jwc/online_edu_pause.asp
     - name: Google产品
       sites:
         - name: Google相册
