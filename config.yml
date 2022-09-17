@@ -14,7 +14,7 @@ url: https://ybyml.github.io/ybyml.github.io/
 github: "https://github.com/ybyml"
 
 # footer message
-footer: © 2021-2021 @ybyml
+footer: © 2022-2029 @ybyml
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -70,6 +70,9 @@ content:
         - name: LION导航
           description: 个人的云服务导航网站
           url: https://dh.kejilion.tk/
+        - name: Bio & IT 网址导航
+          description: Bio & IT 网址导航
+          url: https://nav.bioitee.com/
     - name: 网络相关
       sites:
         - name: 恩山无线论坛
