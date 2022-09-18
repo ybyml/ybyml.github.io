@@ -73,6 +73,9 @@ content:
         - name: Bio & IT 网址导航
           description: Bio & IT 网址导航
           url: https://nav.bioitee.com/
+        - name: yuan CF博客
+          description: yuan的cloud flare博客
+          url: https://cfb.ybyl.ml/
     - name: 网络相关
       sites:
         - name: 恩山无线论坛
@@ -84,6 +87,15 @@ content:
         - name: CloudDrive
           description: CloudDrive /阿里云盘
           url: http://localhost:9798/#/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98?a=1
+        - name: 坚果云 
+          description: 云盘|网盘|企业网盘|同步|备份|无限空间|免费网络硬盘|企业云盘
+          url: https://www.jianguoyun.com/
+        - name: 华为云 
+          description: 存于云间，尽享精彩
+          url: https://cloud.huawei.com/#/home
+        - name: 小米记事本 
+          description: 小米官方笔记本
+          url: https://i.mi.com/note/h5#/
     - name: 电影视频
       sites:
         - name: 6v电影网
