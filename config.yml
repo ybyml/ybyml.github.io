@@ -155,6 +155,9 @@ content:
           url: https://www.ziticangku.com/
     - name: 网站工具
       sites:
+        - name: speed of cf
+          description: CF测速地址，观察抖动（jitter）值
+          url: https://speed.cloudflare.com/
         - name: Cloudflare
           description: 全球最大网络服务商
           url: https://dash.cloudflare.com/login/
