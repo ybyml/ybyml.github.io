@@ -196,6 +196,9 @@ content:
         - name: 扬大邮箱
           description: 扬大腾讯企业邮箱
           url: https://mail.yzu.edu.cn/
+        - name: 扬大校历
+          description: 扬大2022—2023学年校历图片
+          url: https://www.yzu.edu.cn/__local/9/ED/67/85401ACD82F2CD5507CAA17EB1B_646C9196_308940.jpg
     - name: Google产品
       sites:
         - name: Google相册
