@@ -103,6 +103,9 @@ content:
           url: https://o8tv.com/
     - name: 软件相关
       sites:
+        - name: 吾爱破解
+          description: 破解软件论坛
+          url: https://www.52pojie.cn/
         - name: 果核剥壳
           description: 互联网的净土
           url: https://www.ghxi.com/
