@@ -193,6 +193,9 @@ content:
         - name: 信息中心
           description: 信息中心软件平台
           url: https://xxhc.yzu.edu.cn/zbrj/
+        - name: 扬大邮箱
+          description: 扬大腾讯企业邮箱
+          url: https://mail.yzu.edu.cn/
     - name: Google产品
       sites:
         - name: Google相册
