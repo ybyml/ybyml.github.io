@@ -156,7 +156,7 @@ content:
         - name: dailydownloaded
           description: 好像是一个国外的软件站
           url: http://windows.dailydownloaded.com/zh/
-    - name: 翻#杂项
+    - name: 翻越杂项
       sites:
         - name: 甲骨文
           description: 免费中的强大vps（推荐）
