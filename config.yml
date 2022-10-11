@@ -49,6 +49,9 @@ content:
         - name: 传文件的
           description: 输入密码后就可以直接提取文件
           url: https://sendfiles.dev/
+        - name: 招商银行Visa全币卡
+          description: 在线申请页面
+          url: https://ccclub.cmbchina.com/CrdCardApply/loginchannelselect.aspx?cardsel=7602
     - name: 常用推荐
       sites:
         - name: yeelogo
