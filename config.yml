@@ -38,6 +38,11 @@ webstack:
 
 content:
   categories:
+    - name: 临时收藏
+      sites:
+        - name: 即时工具
+          description: 致力打造即用即走型在线工具箱
+          url: https://www.67tool.com/
     - name: 常用推荐
       sites:
         - name: yeelogo
