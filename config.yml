@@ -43,6 +43,12 @@ content:
         - name: 即时工具
           description: 致力打造即用即走型在线工具箱
           url: https://www.67tool.com/
+        - name: 免费视频床
+          description: 据说是某抖的
+          url: https://lf3-creative.byteuri.com
+        - name: 传文件的
+          description: 输入密码后就可以直接提取文件
+          url: https://sendfiles.dev/
     - name: 常用推荐
       sites:
         - name: yeelogo
