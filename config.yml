@@ -98,6 +98,9 @@ content:
           url: https://cfb.ybyl.ml/
     - name: 网络相关
       sites:
+        - name: 国内及国际ip访问查询
+          description: IP地址查询，网络连通性检查，CDN命中节点测试，DNS出口查询
+          url: https://ip.skk.moe/
         - name: 恩山无线论坛
           description: 无线路由刷机等
           url: https://www.right.com.cn/
