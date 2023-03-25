@@ -75,6 +75,9 @@ content:
         - name: gitbook的记录页
           description: 放一些记事，网址之类的
           url: https://ybyl.gitbook.io/ybyl/
+        - name: ymiaolong的谷歌blogger博客
+          description: 电脑技术类放置点，国外
+          url: https://ymiaolong.blogspot.com/       
     - name: 常用推荐
       sites:
         - name: yeelogo
