@@ -80,6 +80,15 @@ content:
           url: https://ymiaolong.blogspot.com/       
     - name: 常用推荐
       sites:
+        - name: LION导航
+          description: 需要fq才可以访问
+          url: https://dh.kejilion.pro/
+        - name: Bio & IT 网址导航
+          description: Bio & IT 网址导航
+          url: https://nav.bioitee.com/
+        - name: 科技lion 谷歌博客
+          description: 科技lion的技术文章记录地
+          url: https://kejilion.blogspot.com/
         - name: yeelogo
           description: yeelogo在线图标制作平台。
           url: http://yeelogo.com/#/
@@ -107,15 +116,6 @@ content:
         - name: CCF
           description: CCF二手区
           url: https://bbs.et8.net/bbs/forumdisplay.php?f=174&pp=35&sort=dateline&order=desc&daysprune=45
-        - name: LION导航
-          description: 需要fq才可以访问
-          url: https://dh.kejilion.pro/
-        - name: Bio & IT 网址导航
-          description: Bio & IT 网址导航
-          url: https://nav.bioitee.com/
-        - name: 科技lion 谷歌博客
-          description: 科技lion的技术文章记录地
-          url: https://kejilion.blogspot.com/
     - name: 网络相关
       sites:
         - name: 国内及国际ip访问查询
