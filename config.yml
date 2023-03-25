@@ -108,14 +108,14 @@ content:
           description: CCF二手区
           url: https://bbs.et8.net/bbs/forumdisplay.php?f=174&pp=35&sort=dateline&order=desc&daysprune=45
         - name: LION导航
-          description: 个人的云服务导航网站
-          url: https://dh.kejilion.tk/
+          description: 需要fq才可以访问
+          url: https://dh.kejilion.pro/
         - name: Bio & IT 网址导航
           description: Bio & IT 网址导航
           url: https://nav.bioitee.com/
-        - name: yuan CF博客
-          description: yuan的cloud flare博客
-          url: https://cfb.ybyl.ml/
+        - name: 科技lion 谷歌博客
+          description: 科技lion的技术文章记录地
+          url: https://kejilion.blogspot.com/
     - name: 网络相关
       sites:
         - name: 国内及国际ip访问查询
