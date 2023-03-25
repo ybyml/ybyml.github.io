@@ -58,6 +58,23 @@ content:
         - name: 招商银行Visa全币卡
           description: 在线申请页面
           url: https://ccclub.cmbchina.com/CrdCardApply/loginchannelselect.aspx?cardsel=7602
+    - name: yml★★★★★
+      sites:
+        - name: yuan的CF博客
+          description: 存放一起技术文章，国内可以访问，但是没图床
+          url: https://cfb.ybyl.ml/
+        - name: yuan的小站
+          description: 在甲骨文http://129.154.50.164:8888/用宝塔搭的博客，可传图，但访问慢，无法https
+          url: http://ybyl.ml/
+        - name: ymlong的谷歌Blogger
+          description: ，国内可访问，图片需要是国内网站地址，建筑图片展示，http也可以
+          url: https://www.ybyl.cf/
+        - name: ybyl00@126.com的GitHub主页
+          description: 放自己的edge收藏夹，直接修改主页的html文件就可以
+          url: https://ybyl.github.io/
+        - name: gitbook的记录页
+          description: 放一些记事，网址之类的
+          url: https://ybyl.gitbook.io/ybyl/
     - name: 常用推荐
       sites:
         - name: yeelogo
