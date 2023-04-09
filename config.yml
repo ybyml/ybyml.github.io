@@ -80,6 +80,9 @@ content:
           url: https://ymiaolong.blogspot.com/       
     - name: 常用推荐
       sites:
+        - name: jcnf那坨
+          description: 一个YouTube主的导航
+          url: https://ybfl.xyz/
         - name: LION导航
           description: 需要fq才可以访问
           url: https://dh.kejilion.pro/
