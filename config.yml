@@ -43,6 +43,9 @@ content:
         - name: 在
           description: 自
           url: h
+        - name: 临时节点
+          description: 自codesandbox
+          url: https://codesandbox.io/p/sandbox/muddy-night-t2882n?file=%2Fsrc%2Fworker.ts%3A1%2C1
         - name: 在线书签管理工具
           description: 自己把edge收藏夹上传上去了
           url: https://b.lucq.fun
