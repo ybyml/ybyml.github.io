@@ -80,6 +80,9 @@ content:
           url: https://ymiaolong.blogspot.com/       
     - name: 常用推荐
       sites:
+        - name: telegra.ph
+          description: 可以发布成一个网页，很好用，也可以传小于5m的图片，跟电报有什么关系，不知
+          url: https://telegra.ph/
         - name: 甬哥侃侃侃blogger博客
           description: 甬哥侃侃侃YouTube教程
           url: https://ygkkk.blogspot.com/
