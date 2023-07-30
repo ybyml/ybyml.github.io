@@ -80,6 +80,9 @@ content:
           url: https://ymiaolong.blogspot.com/       
     - name: 常用推荐
       sites:
+        - name: 甬哥侃侃侃blogger博客
+          description: 甬哥侃侃侃YouTube教程
+          url: https://ygkkk.blogspot.com/
         - name: jcnf那坨
           description: 一个YouTube主的导航
           url: https://ybfl.xyz/
