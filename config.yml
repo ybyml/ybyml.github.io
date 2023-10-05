@@ -40,9 +40,9 @@ content:
   categories:
     - name: 临时收藏
       sites:
-        - name: 在123
-          description: 自
-          url: h
+        - name: Zerbur
+          description: ybyl00@gmail.com登陆,绑定了discord账户，7天试用期
+          url: https://dash.zeabur.com/projects
         - name: 在线书签管理工具
           description: 自己把edge收藏夹上传上去了
           url: https://b.lucq.fun
@@ -60,6 +60,9 @@ content:
           url: https://ccclub.cmbchina.com/CrdCardApply/loginchannelselect.aspx?cardsel=7602
     - name: yml★★★★★
       sites:
+        - name: Zerbur里的memos
+          description: 碎片存放处
+          url: https://m.ybyl.xyz/
         - name: yuan的CF博客
           description: 存放一起技术文章，国内可以访问，但是没图床
           url: https://cfb.ybyl.ml/
