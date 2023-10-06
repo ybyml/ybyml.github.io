@@ -55,9 +55,6 @@ content:
         - name: 传文件的
           description: 输入密码后就可以直接提取文件
           url: https://sendfiles.dev/
-        - name: 招商银行Visa全币卡
-          description: 在线申请页面
-          url: https://ccclub.cmbchina.com/CrdCardApply/loginchannelselect.aspx?cardsel=7602
     - name: yml★★★★★
       sites:
         - name: Zerbur里的memos
@@ -68,7 +65,7 @@ content:
           url: https://cfb.ymly.eu.org/
         - name: yuan的小站
           description: 在甲骨文http://129.154.50.164:8888/用宝塔搭的博客，可传图，但访问慢，无法https
-          url: http://ybyl.ml/
+          url: http://ybyl.eu.org/
         - name: ymlong的谷歌Blogger
           description: ，国内可访问，图片需要是国内网站地址，建筑图片展示，http也可以
           url: https://www.ybyl.cf/
