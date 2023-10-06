@@ -65,7 +65,7 @@ content:
           url: https://m.ybyl.xyz/
         - name: yuan的CF博客
           description: 存放一起技术文章，国内可以访问，但是没图床
-          url: https://cfb.ybyl.ml/
+          url: https://cfb.ymly.eu.org/
         - name: yuan的小站
           description: 在甲骨文http://129.154.50.164:8888/用宝塔搭的博客，可传图，但访问慢，无法https
           url: http://ybyl.ml/
