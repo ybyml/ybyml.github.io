@@ -57,9 +57,9 @@ content:
           url: https://sendfiles.dev/
     - name: yml★★★★★
       sites:
-        - name: Zerbur里的memos
+        - name: 甲骨文里的memos
           description: 碎片存放处
-          url: https://m.ybyl.xyz/
+          url: https://m.ybyl.eu.org/
         - name: yuan的CF博客
           description: 存放一起技术文章，国内可以访问，但是没图床
           url: https://cfb.ymly.eu.org/
