@@ -40,6 +40,9 @@ content:
   categories:
     - name: 临时收藏
       sites:
+        - name: 杂铺节点
+          description:免费 SSR / V2ray / Clash / Vmess 公益节点
+          url: https://sh.tmioe.com/free
         - name: Zerbur
           description: ybyl00@gmail.com登陆,绑定了discord账户，7天试用期
           url: https://dash.zeabur.com/projects
